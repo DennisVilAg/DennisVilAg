@@ -1,6 +1,12 @@
-<div align ="center">
-  <h1 align="center">Hola, soy <a href="https://dennisvilag.netlify.app/">Dennis👋</a></h1>
+<div align="center">
+  <h1>Hola, soy <a href="https://dennisvilag.netlify.app/">Dennis👋</a></h1>
   <p>🚀 Desarrollador Android | 🌍 Apasionado por crear soluciones sostenibles | 🛠️ Explorando tecnologías modernas</p>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=blue&center=true&vCenter=true&width=435&lines=Antes+de+continuar;¡Muchas+gracias!" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,6 +29,14 @@
 > - Funcionalidades como favoritos, edición de listas y archivado.
 
 🔑 Tecnologías clave: `Kotlin`, `Jetpack Compose`, `MVVM`, `Firebase`,`Android Studio`
+
+---
+
+### 🔧 Tecnologías y herramientas
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
