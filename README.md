@@ -16,10 +16,13 @@
 
 ### 📌 Proyecto destacado
 **[ConcinApp](https://github.com/DennisVilAg/CocinAPP_TFG)**  
-> Breve descripción del proyecto, por ejemplo:  
-Una aplicación para [].
+> Una aplicación diseñada para personas ocupadas que desean cocinar rápido, hogares sostenibles que buscan reducir el desperdicio de alimentos, y cocineros curiosos por explorar recetas de diferentes culturas.  
+> **Características principales:**
+> - Despensa virtual para gestionar ingredientes disponibles.
+> - Recomendación de recetas basadas en los ingredientes de tu despensa.
+> - Funcionalidades como favoritos, edición de listas y archivado.
 
-🔑 Tecnologías clave: `Kotlin`, `Jetpack Compose`, `MVVM`, `Firebase`
+🔑 Tecnologías clave: `Kotlin`, `Jetpack Compose`, `MVVM`, `Firebase`,`Android Studio`
 
 ---
 
