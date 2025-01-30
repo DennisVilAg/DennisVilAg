@@ -13,7 +13,7 @@
 
 ### 🌟 Sobre mí
 - 📱 **Desarrollador Android** enfocado en construir aplicaciones intuitivas y funcionales.
-- 🌱 Actualmente aprendiendo **React Native** para expandir mis habilidades en desarrollo multiplataforma.
+- 🌱 Actualmente aprendiendo **React Native y Vue.js** para expandir mis habilidades en desarrollo multiplataforma.
 - 🌍 Amante de la tecnología sostenible y la optimización de recursos.
 - 🎯 Mis metas: crear experiencias digitales que simplifiquen la vida y fomenten la sostenibilidad.
 
