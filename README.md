@@ -56,8 +56,9 @@
 ---
 
 ### 🤝 Conecta conmigo
-- 🌐 Porfolio: [dennisvilag.es](https://dennisvilag.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dennis-villanueva-agustines/)  
+- 🌐 <a href="https://dennisvilag.es/" target="_blank" rel="noopener noreferrer">Porfolio</a>
+- 💼 <a href="https://www.linkedin.com/in/dennis-villanueva-agustines/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
 
 ---
 
