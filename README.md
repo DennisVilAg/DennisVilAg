@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy <a href="https://dennisvilag.netlify.app/">Dennis👋</a></h1>
-  <p>🚀 Desarrollador Android | 🌍 Apasionado por crear soluciones sostenibles | 🛠️ Explorando tecnologías modernas</p>
+  <p>🚀 Desarrollador Android | 🌍 Me encanta crear soluciones sostenibles | 🛠️ Explorando tecnologías modernas</p>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 ### 📌 Proyecto destacado
-**[ConcinApp](https://github.com/DennisVilAg/CocinAPP_TFG)**  
+**[CocinApp](https://github.com/DennisVilAg/CocinAPP_TFG)**  
 > Una aplicación diseñada para personas ocupadas que desean cocinar rápido, hogares sostenibles que buscan reducir el desperdicio de alimentos, y cocineros curiosos por explorar recetas de diferentes culturas.  
 > **Características principales:**
 > - Despensa virtual para gestionar ingredientes disponibles.
